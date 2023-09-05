@@ -1,4 +1,11 @@
 // Top-level build file where you can add configuration options common to all sub-projects/modules.
+
+
+// quan ly thu vien giup minh
+// file class se bien dich chung... tuy nhien no dang bi an?
+// jdk gom jre va jmv
+// quan ly co 2 kieu: 1 la gradle biuld va (grandle provy) va maven
+// sau do minh chi goi lai class thoi
 plugins {
 id 'com.android.application' version '8.1.0' apply false
 }
